@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7548686385e45cd4b8b9ce4511ec097e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 0fc4c387c22b7fc48b08185ed5a54208, type: 2}
+  - {fileID: 11400000, guid: 3a9c1da07d347c247a8c762ea77da4f8, type: 2}
+  _fileAsset: {fileID: 6013892654665635331, guid: 7548686385e45cd4b8b9ce4511ec097e,
+    type: 3}
+  _assetPath: Assets/Models/Substances/cotton_rich_tricotine_weave_front_side.sbsar
